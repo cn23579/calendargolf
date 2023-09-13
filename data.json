@@ -1,0 +1,16 @@
+{
+"data":[
+         {
+	"day": 13, 
+	"month": 9, 
+	"year": 2023, 
+	"events": [{"title": "游棋明", "time": "11:00 AM - 4:00 PM", "vip": "Free"},{"title": "謝啟山", "time": "8:00 AM - 11:00 AM", "vip": "Free"}]
+          },
+          {
+	"day": 14, 
+	"month": 9, 
+	"year": 2023, 
+	"events": [{"title": "曾俊達", "time": "8:00 AM - 11:00 AM", "vip": "Free"}]
+	}
+	]
+}
